@@ -408,26 +408,6 @@ Individual model predictions are saved as JSONL files in `results/EA/` and `resu
 4. **EmoBench** provides a comprehensive benchmark for emotional intelligence
 5. **Task-specific patterns** suggest different strategies may be needed for EU vs EA
 
-## 📝 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@inproceedings{sabour-etal-2024-emobench,
-    title = "{E}mo{B}ench: Evaluating the Emotional Intelligence of Large Language Models",
-    author = "Sabour, Sahand and Liu, Siyang and Zhang, Zheyuan and 
-              Liu, June and Zhou, Jinfeng and Sunaryo, Alvionna and 
-              Lee, Tatia and Mihalcea, Rada and Huang, Minlie",
-    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for 
-                 Computational Linguistics (Volume 1: Long Papers)",
-    year = "2024",
-    address = "Bangkok, Thailand",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.acl-long.326",
-    pages = "5986--6004"
-}
-```
-
 ## 🤝 Contributing
 
 We welcome contributions! Areas for improvement:
