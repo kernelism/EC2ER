@@ -1,0 +1,83 @@
+{
+  "final_mistral": {
+    "en": {
+      "complex_emotions": 0.0,
+      "emotional_cues": 0.03571428571428571,
+      "personal_beliefs_and_experiences": 0.017857142857142856,
+      "perspective_taking": 0.08955223880597014,
+      "Overall": 0.04
+    }
+  },
+  "Mistral-7B-Instruct-v0_3": {
+    "en": {
+      "complex_emotions": 0.14285714285714285,
+      "emotional_cues": 0.17857142857142858,
+      "personal_beliefs_and_experiences": 0.05357142857142857,
+      "perspective_taking": 0.08955223880597014,
+      "Overall": 0.105
+    }
+  },
+  "gpt_oss_20b_emobench_lora_final": {
+    "en": {
+      "complex_emotions": 0.2653061224489796,
+      "emotional_cues": 0.17857142857142858,
+      "personal_beliefs_and_experiences": 0.16071428571428573,
+      "perspective_taking": 0.23880597014925373,
+      "Overall": 0.215
+    }
+  },
+  "Llama-3_1-8B": {
+    "en": {
+      "complex_emotions": 0.08163265306122448,
+      "emotional_cues": 0.0,
+      "personal_beliefs_and_experiences": 0.03571428571428571,
+      "perspective_taking": 0.029850746268656716,
+      "Overall": 0.04
+    }
+  },
+  "Finetuned-Mistral-7B-Instruct-v0_3": {
+    "en": {
+      "complex_emotions": 0.22448979591836735,
+      "emotional_cues": 0.17857142857142858,
+      "personal_beliefs_and_experiences": 0.10714285714285714,
+      "perspective_taking": 0.13432835820895522,
+      "Overall": 0.155
+    }
+  },
+  "Qwen2_5-7B-Instruct": {
+    "en": {
+      "complex_emotions": 0.42857142857142855,
+      "emotional_cues": 0.39285714285714285,
+      "personal_beliefs_and_experiences": 0.2857142857142857,
+      "perspective_taking": 0.208955223880597,
+      "Overall": 0.31
+    }
+  },
+  "gemma-7b-it": {
+    "en": {
+      "complex_emotions": 0.24489795918367346,
+      "emotional_cues": 0.25,
+      "personal_beliefs_and_experiences": 0.16071428571428573,
+      "perspective_taking": 0.14925373134328357,
+      "Overall": 0.19
+    }
+  },
+  "Finetuned-Qwen2_5-7B-Instruct": {
+    "en": {
+      "complex_emotions": 0.3877551020408163,
+      "emotional_cues": 0.35714285714285715,
+      "personal_beliefs_and_experiences": 0.2857142857142857,
+      "perspective_taking": 0.19402985074626866,
+      "Overall": 0.29
+    }
+  },
+  "Finetuned-gemma-7b-it": {
+    "en": {
+      "complex_emotions": 0.20408163265306123,
+      "emotional_cues": 0.21428571428571427,
+      "personal_beliefs_and_experiences": 0.17857142857142858,
+      "perspective_taking": 0.14925373134328357,
+      "Overall": 0.18
+    }
+  }
+}

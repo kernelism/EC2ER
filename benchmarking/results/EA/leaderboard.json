@@ -1,0 +1,83 @@
+{
+  "final_mistral": {
+    "en": {
+      "Personal-Others": 0.16,
+      "Personal-Self": 0.24,
+      "Social-Others": 0.16,
+      "Social-Self": 0.18,
+      "Overall": 0.185
+    }
+  },
+  "Mistral-7B-Instruct-v0_3": {
+    "en": {
+      "Personal-Others": 0.38,
+      "Personal-Self": 0.46,
+      "Social-Others": 0.3,
+      "Social-Self": 0.48,
+      "Overall": 0.405
+    }
+  },
+  "gpt_oss_20b_emobench_lora_final": {
+    "en": {
+      "Personal-Others": 0.54,
+      "Personal-Self": 0.72,
+      "Social-Others": 0.54,
+      "Social-Self": 0.62,
+      "Overall": 0.605
+    }
+  },
+  "Llama-3_1-8B": {
+    "en": {
+      "Personal-Others": 0.12,
+      "Personal-Self": 0.12,
+      "Social-Others": 0.12,
+      "Social-Self": 0.16,
+      "Overall": 0.13
+    }
+  },
+  "Finetuned-Mistral-7B-Instruct-v0_3": {
+    "en": {
+      "Personal-Others": 0.66,
+      "Personal-Self": 0.74,
+      "Social-Others": 0.5,
+      "Social-Self": 0.6,
+      "Overall": 0.625
+    }
+  },
+  "Qwen2_5-7B-Instruct": {
+    "en": {
+      "Personal-Others": 0.62,
+      "Personal-Self": 0.78,
+      "Social-Others": 0.6,
+      "Social-Self": 0.72,
+      "Overall": 0.68
+    }
+  },
+  "gemma-7b-it": {
+    "en": {
+      "Personal-Others": 0.54,
+      "Personal-Self": 0.6,
+      "Social-Others": 0.5,
+      "Social-Self": 0.62,
+      "Overall": 0.565
+    }
+  },
+  "Finetuned-Qwen2_5-7B-Instruct": {
+    "en": {
+      "Personal-Others": 0.6,
+      "Personal-Self": 0.8,
+      "Social-Others": 0.6,
+      "Social-Self": 0.74,
+      "Overall": 0.685
+    }
+  },
+  "Finetuned-gemma-7b-it": {
+    "en": {
+      "Personal-Others": 0.54,
+      "Personal-Self": 0.6,
+      "Social-Others": 0.48,
+      "Social-Self": 0.64,
+      "Overall": 0.565
+    }
+  }
+}
