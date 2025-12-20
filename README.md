@@ -408,14 +408,11 @@ Individual model predictions are saved as JSONL files in `results/EA/` and `resu
 4. **EmoBench** provides a comprehensive benchmark for emotional intelligence
 5. **Task-specific patterns** suggest different strategies may be needed for EU vs EA
 
-## 🤝 Contributing
+## Contributors
 
-We welcome contributions! Areas for improvement:
-- Additional data generation strategies
-- New fine-tuning approaches
-- Extended evaluation metrics
-- Support for more models
-- Multilingual capabilities
+- [Arjhun Sreedar](https://github.com/kernelism)
+- [Laukik Patade](https://github.com/LaukikPatade)
+- [Rohan Pillay](https://github.com/pillayroh)
 
 ## 📧 Contact
 
