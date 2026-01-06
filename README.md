@@ -5,7 +5,7 @@
 
 > **Improving LLM Performance on Emotional Understanding and Application Tasks**
 
-This repository contains our work on enhancing the emotional intelligence capabilities of Large Language Models (LLMs) through synthetic data generation and fine-tuning, evaluated on the [EmoBench benchmark](https://aclanthology.org/2024.acl-long.326/).
+This repository contains our work on enhancing the emotional intelligence capabilities of Large Language Models (LLMs) through synthetic data generation and fine-tuning, evaluated on the [EmoBench benchmark](https://aclanthology.org/2024.acl-long.326/). Paper is available [here](https://arxiv.org/abs/2601.01407).
 
 ## 📋 Table of Contents
 
@@ -414,14 +414,21 @@ Individual model predictions are saved as JSONL files in `results/EA/` and `resu
 - [Laukik Patade](https://github.com/LaukikPatade)
 - [Rohan Pillay](https://github.com/pillayroh)
 
-## 📧 Contact
+## 📧 Cite
 
-For questions or issues, please open a GitHub issue or contact the project maintainers.
+If you build upon our work, do cite our work:
+```
+@misc{sreedar2026emotionclassificationemotionalreasoning,
+      title={From Emotion Classification to Emotional Reasoning: Enhancing Emotional Intelligence in Large Language Models}, 
+      author={Arjhun Sreedar and Rohan Pillay and Laukik Patade},
+      year={2026},
+      eprint={2601.01407},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2601.01407}, 
+}
+```
 
 ## 📄 License
 
 This project builds upon EmoBench, which is licensed under its original license. See the [benchmarking/LICENSE](benchmarking/LICENSE) file for details.
-
----
-
-**Note**: This project was developed as part of research on enhancing emotional intelligence in Large Language Models. See `Report final.pdf` for detailed methodology, experiments, and analysis.
